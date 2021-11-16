@@ -6,7 +6,7 @@ function RepoCard({ name, url, date }) {
         <div className="repocard-container">
             <h2>{name}</h2>
             <h5>Last updated: <p>{date}</p></h5>
-            <p className="repo-link-button"><a target="_blank" href={`${url}`}>Repository</a></p>
+            <p className="repo-link-button"><a target="_blank" href={`${url}`} rel="noreferrer">Repository</a></p>
         </div>
     );
 }

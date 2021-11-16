@@ -1,6 +1,6 @@
 import './App.css';
 import Home from './pages/Home/Home';
-import { BrowserRouter as Router, Routes, Route } from 'react-router-dom'
+import { HashRouter as Router, Routes, Route } from 'react-router-dom'
 import Followers from './pages/Followers/Followers';
 import Repos from './pages/Repos/Repos';
 import Error404 from './pages/Error404/Error404';
