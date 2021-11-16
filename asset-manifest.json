@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/coolest-github-app/static/css/main.c6bf5064.chunk.css",
+    "main.css": "/coolest-github-app/static/css/main.baeac3f4.chunk.css",
     "main.js": "/coolest-github-app/static/js/main.89d80808.chunk.js",
     "main.js.map": "/coolest-github-app/static/js/main.89d80808.chunk.js.map",
     "runtime-main.js": "/coolest-github-app/static/js/runtime-main.0caf34d0.js",
@@ -10,13 +10,13 @@
     "static/js/3.c072a569.chunk.js": "/coolest-github-app/static/js/3.c072a569.chunk.js",
     "static/js/3.c072a569.chunk.js.map": "/coolest-github-app/static/js/3.c072a569.chunk.js.map",
     "index.html": "/coolest-github-app/index.html",
-    "static/css/main.c6bf5064.chunk.css.map": "/coolest-github-app/static/css/main.c6bf5064.chunk.css.map",
+    "static/css/main.baeac3f4.chunk.css.map": "/coolest-github-app/static/css/main.baeac3f4.chunk.css.map",
     "static/js/2.13249c35.chunk.js.LICENSE.txt": "/coolest-github-app/static/js/2.13249c35.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.0caf34d0.js",
     "static/js/2.13249c35.chunk.js",
-    "static/css/main.c6bf5064.chunk.css",
+    "static/css/main.baeac3f4.chunk.css",
     "static/js/main.89d80808.chunk.js"
   ]
 }
