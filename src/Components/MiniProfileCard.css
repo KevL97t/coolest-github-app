@@ -1,0 +1,43 @@
+.mini-card-main-container{
+    margin-top: 20px;
+    width: 160px;
+    height: 160px;
+    overflow-x: hidden;
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(238, 247, 252);
+    border-radius: 12px;
+    padding: 10px;
+    box-shadow: rgb(38, 57, 77) 0px 18px 30px -10px;
+    margin-left: 8%;
+}
+
+.mini-card__icon{
+    margin-top: 5px;
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    border: 3px solid #2f80ed;
+    align-self: center;
+}
+
+.mini-card__username{
+    margin-top: 10px;
+    width: 120px;
+    align-self: center;
+    text-align: center;
+}
+
+.mini-card__repos{
+    margin-top: 8px;
+    align-self: center;
+    background-color: rgb(59, 59, 59);
+    color: whitesmoke;
+    text-decoration: none;
+    padding: 4px;
+    border-radius: 4px;
+    padding-left: 6px;
+    padding-right: 6px;
+    cursor: pointer;
+    font-size: 14px;
+}

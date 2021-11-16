@@ -1,0 +1,39 @@
+.profilecard-main-container{
+    margin-top: 10px;
+    width: 80vw;
+    max-width: 400px;
+    height: 80vh;
+    align-self: center;
+    padding-bottom: 20px;
+    border-radius: 12px;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px;
+    background: linear-gradient(to bottom, #56ccf2, #2f80ed);
+}
+
+.profilecard-names-container h1{
+    margin-top: 6px;
+    color: whitesmoke;
+}
+.profilecard-names-container p{
+    color: whitesmoke;
+}
+
+.profilecard-numbers-container p{
+    width: 160px;
+    height: 40px;
+    padding-top: 10px;
+    margin: 12px auto;
+    background-color: #56ccf2;
+    border-radius: 8px;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+    color: rgb(97, 97, 97);
+}
+
+.numbers-link{
+    color: black;
+    text-decoration: none;
+    text-align: center;
+    cursor: pointer;
+    color: rgb(97, 97, 97);
+    font-weight: bold;
+}

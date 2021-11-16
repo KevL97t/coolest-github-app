@@ -1,0 +1,16 @@
+.error-container{
+    margin: 120px auto;
+    width: 100%;
+    background-color: rgb(182, 32, 32);
+    color: whitesmoke;
+    padding: 20px;
+}
+
+.title{
+    font-size: 30px;
+}
+
+.text{
+    margin-top: 16px;
+    font-size: 16px;
+}

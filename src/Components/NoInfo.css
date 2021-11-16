@@ -1,0 +1,13 @@
+.noinfo-container{
+    position: absolute;
+    top: 40%;
+    left: 5%;
+    width: 90%;
+    height: 160px;
+    background-color: rgba(233, 211, 16, 0.925);
+    text-align: center;
+    padding: 10px;
+    padding-top: 30px;
+    border-radius: 16px;
+    box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+}
